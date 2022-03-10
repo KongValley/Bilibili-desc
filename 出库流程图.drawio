@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T07:49:57.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="uMHqd4u10ZKn9vedweYi" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T07:52:13.080Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="4CSG39R_ibDqebnsHMQC" version="17.1.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
         </mxCell>
         <mxCell id="c2XQxgMK0aHP51GLpQOd-14" value="&amp;nbsp;签字确认&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="c2XQxgMK0aHP51GLpQOd-13">
           <mxGeometry x="0.3107" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-7" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c2XQxgMK0aHP51GLpQOd-7" value="外勤人员" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
