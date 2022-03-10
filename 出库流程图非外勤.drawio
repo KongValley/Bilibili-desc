@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T07:51:07.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="U9S43vS5ufM4G27ni7GR" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T08:44:19.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="xkDnY345JzHvwBEjpuIi" version="17.1.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
             <mxPoint x="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c2XQxgMK0aHP51GLpQOd-3" value="普通后勤(仓储员)" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="c2XQxgMK0aHP51GLpQOd-3" value="普通内勤(仓储员)" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="90" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="c2XQxgMK0aHP51GLpQOd-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="c2XQxgMK0aHP51GLpQOd-3" vertex="1">
@@ -61,7 +61,7 @@
         <mxCell id="c2XQxgMK0aHP51GLpQOd-8" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="c2XQxgMK0aHP51GLpQOd-7" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="c2XQxgMK0aHP51GLpQOd-11" value="普通后勤(仓储员)" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="c2XQxgMK0aHP51GLpQOd-11" value="普通内勤(仓储员)" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="90" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="c2XQxgMK0aHP51GLpQOd-12" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="c2XQxgMK0aHP51GLpQOd-11" vertex="1">
@@ -85,7 +85,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFgI9-fbcwyWUuV6etYy-1" value="普通后勤(仓储员)" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="zFgI9-fbcwyWUuV6etYy-1" value="普通内勤(仓储员)" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="90" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="zFgI9-fbcwyWUuV6etYy-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="zFgI9-fbcwyWUuV6etYy-1">
