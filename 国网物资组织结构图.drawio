@@ -1,33 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T00:59:09.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="V0A4JzwN2UOTSc9pdPaM" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T01:07:14.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="5lzz61wYo5nbGgpvDI-y" version="17.1.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="&lt;font face=&quot;MiSans&quot; style=&quot;font-size: 18px&quot;&gt;组织结构&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="70" width="710" height="430" as="geometry" />
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+        <mxCell id="ahdOecXiskX3nPGF_uR7-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="ahdOecXiskX3nPGF_uR7-2" target="ahdOecXiskX3nPGF_uR7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+        <mxCell id="ahdOecXiskX3nPGF_uR7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ahdOecXiskX3nPGF_uR7-2" target="ahdOecXiskX3nPGF_uR7-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="ahdOecXiskX3nPGF_uR7-2" value="国网物资管理部（招投标管理中心）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=MiSans;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahdOecXiskX3nPGF_uR7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="ahdOecXiskX3nPGF_uR7-3" target="ahdOecXiskX3nPGF_uR7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahdOecXiskX3nPGF_uR7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ahdOecXiskX3nPGF_uR7-3" target="ahdOecXiskX3nPGF_uR7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahdOecXiskX3nPGF_uR7-3" value="省物资部（招投标管理中心）" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=MiSans;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahdOecXiskX3nPGF_uR7-8" value="国网物资公司" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=MiSans;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="140" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahdOecXiskX3nPGF_uR7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="1" source="ahdOecXiskX3nPGF_uR7-11" target="ahdOecXiskX3nPGF_uR7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahdOecXiskX3nPGF_uR7-11" value="市公司物资部&lt;br&gt;（物资供应中心）" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=MiSans;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="370" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahdOecXiskX3nPGF_uR7-13" value="省物资分公司&lt;br&gt;（浙电招标咨询有限公司）" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=MiSans;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="300" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ahdOecXiskX3nPGF_uR7-15" value="县物资供应分中心" style="whiteSpace=wrap;html=1;fontSize=18;fontFamily=MiSans;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="490" width="330" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
