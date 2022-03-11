@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T02:29:06.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.1.0" etag="Oql2haY204eXkzwVES4E" type="github"><diagram id="JHnSLolnUCU-vurzSN4B">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-11T02:40:42.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="NFimQX50Rl-4yj0Q0myS" version="17.1.0" type="github">
+  <diagram id="JHnSLolnUCU-vurzSN4B" name="第 1 页">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZoQnatEezK549WxlIavM-1" value="物资采购计划物料优选率 =&amp;nbsp;Σ优选物料采购金额/Σ电网物资采购金额&amp;nbsp;× 100%" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=MiSans;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="70" width="670" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoQnatEezK549WxlIavM-2" value="物资采购计划标准化率 =&amp;nbsp;Σ标准化物料采购金额/Σ(标准化物料采购金额+非标物料采购金额) × 100%" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=MiSans;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="850" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoQnatEezK549WxlIavM-3" value="物资采购计划固化ID使用率 =&amp;nbsp;Σ使用固化ID物料采购金额/Σ所有物料采购金额&amp;nbsp;× 100%" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=MiSans;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="740" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZoQnatEezK549WxlIavM-4" value="标准化建设参与度" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontFamily=MiSans;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="220" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
